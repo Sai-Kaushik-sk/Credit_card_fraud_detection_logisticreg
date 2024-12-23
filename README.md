@@ -8,7 +8,9 @@ Objective: Build a model to detect credit card fraud.
 
 Tools to build the model: Built in python using libraries like Numpy, Pandas and Scikit learn.
 
-Data: Has been collected from Kaggle
+Data: Has been collected from Kaggle. 
+
+This is the link to the file https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Tasks:
 1) Imported the dependencies
