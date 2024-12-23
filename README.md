@@ -18,7 +18,7 @@ Data: Has been collected from Kaggle
 5) Splitting the data set into dependent and independent variables
 6) Trained the model
 7) Evaluate the model using accuracy score
-![image](https://github.com/user-attachments/assets/b30d0bca-6914-43c8-b9c2-ae48a6a83507)
+
 
 
 
